@@ -1,0 +1,8 @@
+
+.highlight {
+    background-color: yellow;
+}
+.myClass, #btn {
+    color:blue;
+    padding:10px;
+}
